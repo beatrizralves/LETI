@@ -1,3 +1,3 @@
-**Resolução de alguns exercicios encontram se neste outro repositório
+**A resolução de alguns exercicios encontram se neste outro repositório
 https://github.com/beatrizralves/C_programs
 
