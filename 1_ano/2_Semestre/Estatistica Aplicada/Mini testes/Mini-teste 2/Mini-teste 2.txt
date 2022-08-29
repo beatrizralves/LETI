@@ -1,0 +1,124 @@
+<eleitores>
+    <5 eleitores>
+        60% no PPP: 0.34
+        70% no PPP: 0.53
+    </5 eleitores>
+
+    <6 eleitores>
+        60% no PPP: 0.54
+        70% no PPP: 0.74
+    </6 eleitores>
+
+    <7 eleitores>
+        60% no PPP: 0.71
+	70% no PPP: 0.87
+    </7 eleitores>
+
+    <8 eleitores>
+        60% no PPP: 0.83
+        70% no PPP: 0.94
+    </8 eleitores>
+
+    <9 eleitores>
+        60% no PPP: 0.90
+        70% no PPP: 0.97
+    </9 eleitores>
+</eleitores>
+
+<cabo elétrico>
+    média 1.07: 0.52
+    média 1.08: 0.50
+    média 1.09: 0.48
+    média 1.10: 0.45
+    média 1.11: 0.43
+    média 1.12: 0.40
+    média 1.13: 0.37
+    média 1.14: 0.35
+    média 1.15: 0.32
+</cabo elétrico>
+
+<turma>
+    <média 60>
+        <desvio padrão 10>
+            15 estudantes > 67: 0.0034
+            1 estudante > 67: 0.2420
+        </desvio padrão 10>
+    </média 60>
+    
+    <média 70>
+        <desvio padrão 9>  
+            10 estudantes > 75: 0.0395
+            1 estudante > 75: 0.2893
+        </desvio padrão 9>
+
+        <desvio padrão 10>       
+            25 estudantes > 77.5: 0.0001
+            1 estudante > 77.5: 0.2266
+        </desvio padrão 10>
+    </média 70>
+    
+    <média 75>
+        <desvio padrão 7>
+            36 estudantes > 79: 0.0003
+            1 estudante > 79: 0.2839
+        </desvio padrão 7>
+        
+        <desvio padrão 9>
+            25 estudantes > 78: 0.0478
+            1 estudante > 78: 0.3694
+
+            25 estudantes > 80: 0.027
+            1 estudante > 80: 0.2893
+
+            30 estudantes > 79: 0.0075
+            1 estudante > 79: 0.3284
+        </desvio padrão 9>
+    </média 75>
+
+    <média 77>
+        <desvio padrão 11>
+            12 estudantes > 81: 0.1039
+            1 estudante > 81: 0.3581
+        </desvio padrão 11>
+    </média 77>
+
+    <média 80>
+        <desvio padrão 8>
+            15 estudantes > 81: 0.3141
+            1 estudante > 81: 0.4503
+        </desvio padrão 8>
+    </média 80>
+
+</turma>
+
+<X1, X2, X3>
+    T1 = (...) / 3 e T2 = (...) / 6
+        k=1 e m=3 => T1 e T2 são não tendenciosos e Var[T1] < Var[T2]
+
+    T1 = (...) / 4 e T2 = (...) / 6
+        k=2 e m=3 => T1 e T2 são não tendenciosos e Var[T1] < Var[T2]
+
+    T1 = (...) / 5 e T2 = (...) / 6
+        k=3 e m=3 => T1 e T2 são não tendenciosos e Var[T1] > Var[T2]
+
+    T1 = (...) / 6 e T2 = (...) / 4
+        k=4 e m=1 => T1 e T2 são não tendenciosos e Var[T1] > Var[T2]
+
+    T1 = (...) / 6 e T2 = (...) / 5
+        k=4 e m=2 => T1 e T2 são não tendenciosos e Var[T1] > Var[T2]
+
+    T1 = (...) / 6 e T2 = (...) / 6
+        k=4 e m=3 => T1 e T2 são não tendenciosos e Var[T1] > Var[T2]
+
+    T1 = (...) / 6 e T2 = (...) / 7
+        k=4 e m=4 => T1 e T2 são não tendenciosos e Var[T1] > Var[T2]
+   
+    T1 = (...) / 6 e T2 = (...) / 8
+        k=4 e m=5 => T1 e T2 são não tendenciosos e Var[T1] > Var[T2]
+   
+    T1 = (...) / 6 e T2 = (...) / 9
+        k=4 e m=6 => T1 e T2 são não tendenciosos e Var[T1] < Var[T2]
+
+    T1 = (...) / 7 e T2 = (...) / 6
+        k=5 e m=3 => T1 e T2 são não tendenciosos e Var[T1] > Var[T2]
+<X1, X2, X3>

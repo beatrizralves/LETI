@@ -1,0 +1,118 @@
+<iodo sanguíneo>
+	n_masculino: 31
+	resposta = 0.9 +/- 0.782
+
+	n_masculino: 33
+	resposta = 0.9 +/- 0.763
+
+	n_masculino: 34
+	resposta = 0.9 +/- 0.754
+
+	n_masculino: 35
+	resposta = 0.9 +/- 0.745
+
+	n_masculino: 36
+	resposta = 0.9 +/- 0.737
+
+	n_masculino: 37
+	resposta = 0.9 +/- 0.729
+
+	n_masculino: 38
+	resposta = 0.9 +/- 0.722
+
+	n_masculino: 39
+	resposta = 0.9 +/- 0.714
+</iodo sanguíneo>
+
+
+
+
+<indústria de parafusos>
+	novo modelo: 20 parafusos defeituosos
+	resposta = 3.84
+
+	novo modelo: 21 parafusos defeituosos
+	resposta = 3.70
+
+	novo modelo: 22 parafusos defeituosos
+	resposta = 3.55
+
+	novo modelo: 24 parafusos defeituosos
+	resposta = 3.27	
+
+	novo modelo: 26 parafusos defeituosos
+	resposta = 3.00
+
+	novo modelo: 27 parafusos defeituosos
+	resposta = 2.87
+
+	novo modelo: 28 parafusos defeituosos
+	resposta = 2.74
+
+	novo modelo: 29 parafusos defeituosos
+	resposta = 2.61
+</indústria de parafusos>
+
+
+
+
+<médico>
+	resposta = x, y
+
+	6º paciente antes: 170
+	x = 1.615
+
+	6º paciente antes: 171
+	x = 1.467
+
+	6º paciente antes: 172
+	x = 1.300
+
+	6º paciente antes: 173
+	x = 1.123
+
+	6º paciente antes: 174
+	x = 0.948
+
+
+	significância 5%
+	y = 2.571
+	
+	significância 10%
+	y = 2.015
+</médico>
+
+
+
+
+<professores>
+	225 profs
+	resposta = 355
+
+	230 profs
+	resposta = 360
+
+	235 profs
+	resposta = 365
+
+	240 profs
+	resposta = 369
+
+	245 profs
+	resposta = 373
+
+	250 profs
+	resposta = 376
+
+	255 profs
+	resposta = 378
+
+	260 profs
+	resposta = 380
+
+	265 profs
+	resposta = 382
+
+	270 profs
+	resposta = 383
+</professores>
