@@ -1,0 +1,22 @@
+
+# programa1.s
+
+	.data		# Data declaration section
+A:	.word	14 
+B:	.word	5 
+C:	.word	0 
+D:  .word   0
+
+	.text
+
+main:			# Start of code section
+	
+	lw $s3, A
+	lw $s2, B
+	lw $s1, C
+	add $s1, $s3, $s2 # comenta'rio!!!!
+	sw $s1,C
+	add $s5, $s1, $s1
+	sw $s5, D
+
+# END OF PROGRAM
